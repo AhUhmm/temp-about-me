@@ -1,2 +1,2 @@
 # temp-about-me
-temporary website
+personal website
