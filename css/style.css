@@ -1163,7 +1163,7 @@ h5,
   content: "";
   left: 0%;
   bottom: 0;
-  top: 1.5em;
+  top: 0.95em;
   position: absolute;
   width: 100px;
   height: 2px;
@@ -1172,6 +1172,7 @@ h5,
   background: -o-linear-gradient(left, #c70039, #ff5733 70%);
   background: linear-gradient(to right, #c70039, #ff5733 70%);
 }
+
 
 .special-card {
   opacity: 0;
